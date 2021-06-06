@@ -1,4 +1,4 @@
-winget install git
-winget install Nvidia.GeForceExperience
-winget install Microsoft.VisualStudioCode
-winget install Microsoft.VisualStudio.2019.Community
+winget install --id git --silent
+winget install --id Nvidia.GeForceExperience --silent
+winget install --id Microsoft.VisualStudioCode --silent
+winget install --id Microsoft.VisualStudio.2019.Community --silent
