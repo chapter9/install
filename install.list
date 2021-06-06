@@ -2,3 +2,4 @@ winget install --id Git.Git --silent
 winget install --id Nvidia.GeForceExperience --silent
 winget install --id Microsoft.VisualStudioCode --silent
 winget install --id Microsoft.VisualStudio.2019.Community --silent
+winget install --id Docker.DockerDesktop --silent
