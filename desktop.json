@@ -7,6 +7,9 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
+				},
+				{
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
@@ -16,23 +19,20 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Nvidia.GeForceExperience"
+					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				}
+				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Community"
 				},
-        {
+        		{
 					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
-				},
-				{
-					"PackageIdentifier" : "7zip.7zip"
-				},
+				}
 			],
 			"SourceDetails" : 
 			{
