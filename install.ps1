@@ -5,3 +5,6 @@ wget -UseBasicParsing "https://github.com/microsoft/winget-cli/releases/download
 Add-AppxPackage -Path "~/Downloads/winget.msixbundle"
 wget -UseBasicParsing "https://raw.githubusercontent.com/chapter9/install/main/$param1" -OutFile "~/Downloads/$param1"
 winget import (Resolve-Path ~/Downloads/$param1)
+
+git config --global user.name "chapter9"
+git config --global user.email "1077096+chapter9@users.noreply.github.com"
