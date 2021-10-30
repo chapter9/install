@@ -13,9 +13,6 @@
 					"PackageIdentifier" : "Google.Chrome"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
@@ -26,9 +23,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Community"
-				},
-        		{
-					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
