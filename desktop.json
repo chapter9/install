@@ -26,7 +26,10 @@
 				},
 				{
 					"PackageIdentifier" : "Valve.Steam"
-				}
+				},
+				{
+					"PackageIdentifier" : "Corsair.iCUE.4"
+				},
 			],
 			"SourceDetails" : 
 			{
